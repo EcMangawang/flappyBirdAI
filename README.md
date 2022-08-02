@@ -1,5 +1,7 @@
 # flappyBirdAI
  The game flappy bird incorporating AI using the NEAT algorithm
+ 
+ Built using Python 3.10.5
 
 After cloning:
 Open project directory in terminal, cmd, or PowerShell
